@@ -23,3 +23,7 @@ Ferrari-F1-Card/
 HTML5
 
 CSS3
+
+And the page would look like :
+
+<img width="1712" height="1242" alt="image" src="https://github.com/user-attachments/assets/679c2303-98e3-460a-b200-6aa6ea7a7bb4" />
