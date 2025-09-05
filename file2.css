@@ -1,0 +1,39 @@
+.card1 {
+
+    font-weight: bold;
+
+}
+
+.card2 {
+    font-family: "Bodoni";
+
+}
+
+.card3 {
+    background-image: url('https://pbs.twimg.com/media/Fp1sZtwWcAAXtJ4?format=jpg&name=4096x4096');
+    background-size: cover;
+    height: 89vh;
+}
+
+.card4 {
+    height: 170px;
+    font-family: "Monoton";
+    font-style: italic;
+    font-size: 100px;
+    color: black;
+    text-align: center;
+}
+
+.card5 {
+    font-style: italic;
+    font-size: normalpx;
+    color: white;
+    text-align: center;
+    height: 100px;
+}
+
+.card6 {
+    text-align: center;
+    color: white;
+    font-style: italic;
+}
